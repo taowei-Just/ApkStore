@@ -3,6 +3,7 @@
 	"message": "success",
 	"package": {
 		"version": [{
+		"appName":"升级工具1.6.3_19.apk",
 		"packageName":"com.huanyang.updata",
 			"versionName": "1.6.5",
 			"versionCode": 19,
