@@ -1,7 +1,7 @@
 {
 	"statue": 200,
 	"message": "success",
-	"package": {
+	"packageInfo": {
 		"version": [{
 		"appName":"1.apk",
 		"packageName":"com.tao.babynotepad",
