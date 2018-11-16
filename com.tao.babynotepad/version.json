@@ -3,13 +3,13 @@
 	"message": "success",
 	"packageInfo": {
 		"version": [{
-		"appName":"BabyNotepad_1.0_Code10.apk",
+		"appName":"宝贝记事1.4.apk",
 		"packageName":"com.tao.babynotepad",
-			"versionName": "1.2",
-			"versionCode": 13,
-			"versionUrl": "https://raw.githubusercontent.com/taowei-Just/ApkStore/master/com.tao.babynotepad/BabyNotepad_1.2_Code13.apk",
-			"versionUpdataTime": "2018-11-15 10:00",
-			"updataMsg":"优化界面展示，更少耗电！"
+			"versionName": "1.4",
+			"versionCode": 14,
+			"versionUrl": "https://raw.githubusercontent.com/taowei-Just/ApkStore/master/com.tao.babynotepad/BabyNotepad_1.4_Code14.apk",
+			"versionUpdataTime": "2018-11-16 10:00",
+			"updataMsg":"解决android7.0以上无法升级！"
 		}]
 
 	}
