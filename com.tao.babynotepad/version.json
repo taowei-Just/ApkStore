@@ -3,11 +3,11 @@
 	"message": "success",
 	"packageInfo": {
 		"version": [{
-		"appName":"宝贝记事1.6.apk",
+		"appName":"宝贝记事1.7.apk",
 		"packageName":"com.tao.babynotepad",
-			"versionName": "1.6",
-			"versionCode": 16,
-			"versionUrl": "https://raw.githubusercontent.com/taowei-Just/ApkStore/master/com.tao.babynotepad/BabyNotepad_1.6_Code16.apk",
+			"versionName": "1.7",
+			"versionCode": 17,
+			"versionUrl": "https://raw.githubusercontent.com/taowei-Just/ApkStore/master/com.tao.babynotepad/BabyNotepad_1.7_Code17.apk",
 			"versionUpdataTime": "2018-11-17 15:00",
 			"updataMsg":"增加对记录的删除修改功能哦！"
 		}]
