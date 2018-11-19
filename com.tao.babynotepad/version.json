@@ -3,11 +3,11 @@
 	"message": "success",
 	"packageInfo": {
 		"version": [{
-		"appName":"宝贝记事2.0.apk",
+		"appName":"宝贝记事2.2.apk",
 		"packageName":"com.tao.babynotepad",
-			"versionName": "2.0",
-			"versionCode": 19,
-			"versionUrl": "https://raw.githubusercontent.com/taowei-Just/ApkStore/master/com.tao.babynotepad/BabyNotepad_2.0_Code20.apk",
+			"versionName": "2.2",
+			"versionCode": 22,
+			"versionUrl": "https://raw.githubusercontent.com/taowei-Just/ApkStore/master/com.tao.babynotepad/BabyNotepad_2.2_Code22.apk",
 			"versionUpdataTime": "2018-11-17 19:45",
 			"updataMsg":"增加账号注册功能，增加数据同步到管理员客户端。后续将添加评论回复功能敬请期待。。！"
 		}]
