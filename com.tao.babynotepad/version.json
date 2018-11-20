@@ -6,7 +6,7 @@
 		"appName":"宝贝记事2.3.apk",
 		"packageName":"com.tao.babynotepad",
 			"versionName": "2.3",
-			"versionCode": 23,
+			"versionCode": 22,
 			"versionUrl": "https://raw.githubusercontent.com/taowei-Just/ApkStore/master/com.tao.babynotepad/BabyNotepad_2.3_Code23.apk",
 			"versionUpdataTime": "2018-11-20 15:27",
 			"updataMsg":"增强离线状态，管理员数据接收！"
