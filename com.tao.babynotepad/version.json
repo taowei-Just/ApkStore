@@ -3,14 +3,13 @@
 	"message": "success",
 	"packageInfo": {
 		"version": [{
-		"appName":"宝贝记事2.4.apk",
+		"appName":"宝贝记事2.5.apk",
 		"packageName":"com.tao.babynotepad",
-			"versionName": "2.4",
-			"versionCode": 24,
-			"versionUrl": "https://raw.githubusercontent.com/taowei-Just/ApkStore/master/com.tao.babynotepad/BabyNotepad_2.4_Code24.apk",
+			"versionName": "2.5",
+			"versionCode": 25,
+			"versionUrl": "https://raw.githubusercontent.com/taowei-Just/ApkStore/master/com.tao.babynotepad/BabyNotepad_2.5_Code25.apk",
 			"versionUpdataTime": "2018-11-29 16:42",
-			"updataMsg":"1.修复离线消息同步到管理员
-			2.列表按时间倒序排列！"
+			"updataMsg":"你猜猜猜"
 		}]
 
 	}
